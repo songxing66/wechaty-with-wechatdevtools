@@ -1,0 +1,20 @@
+{
+    "name": "wechatyTest",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "lodash": "^4.17.15",
+        "node-notifier": "^5.4.3",
+        "puppeteer": "^1.19.0",
+        "qrcode-terminal": "^0.12.0",
+        "wechaty": "^0.27.60",
+        "wechaty-puppet-puppeteer": "^0.16.1"
+    }
+}
